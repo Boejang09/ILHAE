@@ -213,11 +213,11 @@
 
             <div class="achievement-content">
               <p class="achievement-category">
-                PROYEK
+                KOMPETISI
               </p>
 
               <h3>
-                Nama Proyek
+                LINGKUNGANKU - UIN BANDUNG
               </h3>
 
               <p>
@@ -233,7 +233,7 @@
 
           <article class="achievement-item">
             <div class="achievement-year">
-              2025
+              2026
             </div>
 
             <div class="achievement-content">
@@ -242,7 +242,7 @@
               </p>
 
               <h3>
-                Nama Kompetisi
+                SENTRA - KIDECO
               </h3>
 
               <p>
@@ -252,7 +252,56 @@
             </div>
 
             <div class="achievement-result">
-              Finalis
+              Dalam Proses Seleksi
+            </div>
+          </article>
+          <article class="achievement-item">
+            <div class="achievement-year">
+              2026
+            </div>
+
+            <div class="achievement-content">
+              <p class="achievement-category">
+                KOMPETISI
+              </p>
+
+              <h3>
+                SVARA - GEMASTIK XIX
+              </h3>
+
+              <p>
+                Deskripsi singkat mengenai pengalaman
+                atau pencapaian anggota ILHAE.
+              </p>
+            </div>
+
+            <div class="achievement-result">
+              Dalam Proses Seleksi
+            </div>
+          </article>
+
+          <article class="achievement-item">
+            <div class="achievement-year">
+              2026
+            </div>
+
+            <div class="achievement-content">
+              <p class="achievement-category">
+                KOMPETISI
+              </p>
+
+              <h3>
+                JEKMAN - GEMASTIK XIX
+              </h3>
+
+              <p>
+                Deskripsi singkat mengenai pengalaman
+                atau pencapaian anggota ILHAE.
+              </p>
+            </div>
+
+            <div class="achievement-result">
+              Dalam Proses Seleksi
             </div>
           </article>
         </div>
